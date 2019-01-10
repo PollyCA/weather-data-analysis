@@ -40,3 +40,8 @@ Thumbs.db
 #for the pycache
 *.pyc
 *.pyo
+
+
+#ignore config file (API KEY)
+
+config.py
