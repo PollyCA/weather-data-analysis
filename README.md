@@ -11,7 +11,7 @@ Python script to visualize the weather of 500+ cities across the world of varyin
 - Click here to see the dataset generated: [weather_data.csv](output/weather_data.csv)
 
 
-![00_Latitude_vs_Longitude_data_points](output/00_Latitude_vs_Longitude_data_points.png)
+![00_Latitude_vs_Longitude_data_points](output/00_Latitude_vs_Longitude_data_points_v2.png)
 
 ## Conclusions
 
